@@ -1,7 +1,7 @@
 
 
 ARRANGEMENTS:
-the circuit works in the following manner.
+The circuit works in the following manner.
 1. patch up  the components. the components values are mentioned in the 'Bill of Material' file.
 2. attach motor terminals to the motor connector.
 3. attach two switches at the Start and Reset connectors.
